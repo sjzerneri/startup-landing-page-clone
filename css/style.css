@@ -39,6 +39,11 @@ div {
     font-weight: 500;
 }
 
+.top-navigation .links li:hover {
+    cursor: pointer;
+    color: #333333;
+}
+
 .logo {
     margin-top: 14px;
 }
